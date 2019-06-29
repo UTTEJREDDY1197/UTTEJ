@@ -1,0 +1,3 @@
+cap symbol is used for start of regular expression
+dollar symbolis used to end the regular expression
+regular numbers will accept only three digit numbers

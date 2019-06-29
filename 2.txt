@@ -1,0 +1,18 @@
+1.list of ten numbers
+
+  1 5 6 7 8 12 15 18
+  
+  count even numbers:4
+   
+2.list 1 5 2 6 7 15 12
+  output:if the list number is odd multiply with 3,
+         if the list number is even then multiplywith 5.
+             3 15 10 30 21 45 60
+
+3.add procedure
+   1.add a new procedure to test  number is palindrome or not
+   2.add anew procedure to test number is armstrong or not
+   3.add a new procedure to test number is prime or not
+   4.adda new procedure to find gcd of two numbers
+   5.adda new procedure to find gcd of two numbers
+   5.adda new procedure to find the count of even and odd numbers between two lines

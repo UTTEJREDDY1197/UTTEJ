@@ -1,0 +1,18 @@
+1.input enter three numbers
+
+
+  output if first number is least number then the output should be multiplicattion of second and third number
+        
+        if second number is least number then the output should be multiplication of first and third number
+
+         if third number is least number then the output should be multiplication of first and second number
+
+2.take a input number as n
+  
+  sum of numbers from 1 to n
+   
+3.   input a number
+     output yes or no
+      yes sum of individual digit fact is same as original then yes
+      no  condition failed
+       ex 145 5!+4!+1!=120+24+1=145  yes
